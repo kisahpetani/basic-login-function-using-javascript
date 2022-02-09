@@ -1,10 +1,12 @@
 # Javascript Basic Login Function
-
 Ini adalah code sederhana untuk membuat halaman login tanpa menggunakan database dan php.
+<i>(This is a simple way to create login page without using database and php.)</i>
 
-## Cara Pakai
-Sebenernya ini udah jadi, tinggal ubah username, password dan url yang dituju nya aja di file <u>script.js</u>
+## Cara Pakai (How to Use)
+Ganti URL, Username, dan Password pada file <u>script.js</u>
+<i>(Change the URL, Username, and password in the script.js file)</i>
 
-## Mengamankan Username dan Password
-Sedikit tips dari saya buat kamu yang kepengen pake code ini buat halaman pribadi.
-Biar username dan passwordnya gak ketahuan, code javascriptnya kunci dulu pake tools **[Obfuscator](https://obfuscator.io/)**.
+## Tips
+Lock the javascript file using 'obfuscator' to make the file more secure.
+
+You can lock the javascript file at >> **[https://bfuscator.io/](https://obfuscator.io/)**.
